@@ -1,0 +1,46 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  background-color: #000000;
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-1 .tim-bungart-HlzXCz {
+  background-color: transparent;
+  color: #d6d6d6;
+  font-family: var(--font-family-oldlondon-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 36px;
+  left: 811px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: fixed;
+  text-align: left;
+  top: 529px;
+  white-space: nowrap;
+  width: 302px;
+}
+
+.web-1920-1 .back-soon-HlzXCz {
+  background-color: transparent;
+  color: #d6d6d6;
+  font-family: var(--font-family-oldlondon-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 908px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: auto;
+}
